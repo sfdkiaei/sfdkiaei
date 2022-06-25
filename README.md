@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seyed Faridoddin Kiaei. 
-      I'm Artificial Intelligence researcher at Tosan Techno and Ms.c student at the University of Tehran.
+      I'm AI Engineer at Tosan Techno.
 - 👀 I’m interested in the fields of ML, specially Data Mining, Speech Recognition, NLP, and Social Network Analysis.
 - 📫 Feel free to contact me: sfdkiaei@gmail.com
 <!---
